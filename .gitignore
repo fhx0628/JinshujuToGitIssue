@@ -10,3 +10,6 @@ data/
 *.iml
 .idea/
 out/
+
+#boot
+application-dev.yml
